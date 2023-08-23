@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JLRCSTLL
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on VS
 - 📫 How to reach me castillojohnlloydrenzo@gmail.com
 
